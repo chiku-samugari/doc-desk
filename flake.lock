@@ -5,17 +5,17 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1741709245,
-        "narHash": "sha256-Ghl59eWZyLNgyzMyPY8i90ZK8ADw02DPHFrWCkVKzco=",
+        "lastModified": 1741853425,
+        "narHash": "sha256-CuSFyDEI2qQKOTOy235aUhpTzssYKY6Mx9dlHRDKavg=",
         "owner": "chiku-samugari",
         "repo": "doc-template",
-        "rev": "f65e6e795c67dc79eacba0e0b138d920c2d48cdc",
+        "rev": "c6ea405989d8cd3c9afce4946a90d5d2ad997daa",
         "type": "github"
       },
       "original": {
         "owner": "chiku-samugari",
+        "ref": "main",
         "repo": "doc-template",
-        "rev": "f65e6e795c67dc79eacba0e0b138d920c2d48cdc",
         "type": "github"
       }
     },
